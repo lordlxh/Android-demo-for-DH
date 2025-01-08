@@ -38,6 +38,6 @@
 
 这两个项目为本项目提供了莫大的帮助。
 
-以及[hhh](https://github.com/huang2002)对本项目做出的大量代码贡献。
+以及AIMC的[JX_AI](https://github.com/QUTLiJingxiao),[hhh](https://github.com/huang2002)对本项目做出的大量代码贡献。
 
 # 如果本项目对你有帮助，请给我点个star！
